@@ -1,0 +1,63 @@
+ rev_Mean , Mean monthly revenue (charge amount)
+ mou_Mean , Mean number of monthly minutes of use
+ roam_Mean , Mean number of roaming calls
+ unan_vce_Mean , Mean number of unanswered voice calls
+ unan_dat_Mean , Mean number of unanswered data calls
+ plcd_vce_Mean , Mean number of attempted voice calls placed
+ plcd_dat_Mean , Mean number of attempted data calls placed
+ recv_vce_Mean , Mean number of received voice calls
+ custcare_Mean , Mean number of customer care calls
+ cc_mou_Mean , Mean unrounded minutes of use of customer care calls
+ inonemin_Mean , Mean number of inbound calls less than one minute
+ threeway_Mean , Mean number of three way calls
+ mou_cvce_Mean , Mean unrounded minutes of use of completed voice calls
+ mou_cdat_Mean , Mean unrounded minutes of use of completed data calls
+ mou_rvce_Mean , Mean unrounded minutes of use of received voice calls
+ peak_vce_Mean , Mean number of inbound and outbound peak voice calls
+ peak_dat_Mean , Mean number of peak data calls
+ mou_peav_Mean , Mean unrounded minutes of use of peak voice calls
+ mou_pead_Mean , Mean unrounded minutes of use of peak data calls
+ opk_vce_Mean , Mean number of off
+ opk_dat_Mean , Mean number of off
+ mou_opkv_Mean , Mean unrounded minutes of use of off
+ mou_opkd_Mean , Mean unrounded minutes of use of off
+ drop_blk_Mean , Mean number of dropped or blocked calls
+ attempt_Mean , Mean number of attempted calls
+ complete_Mean , Mean number of completed calls
+ callfwdv_Mean , Mean number of call forwarding calls
+ months , Total number of months in service
+ uniqsubs , Number of unique subscribers in the household
+ actvsubs , Number of active subscribers in household
+ new_cell , New cell phone user
+ crclscod , Credit class code
+ asl_flag , Account spending limit
+ totcalls , Total number of calls over the life of the customer
+ totmou , Total minutes of use over the life of the customer
+ prizm_social_one , Social group letter only
+ area , Geographic area
+ dualband , Dualband
+ refurb_new , Handset: refurbished or new
+ hnd_price , Current handset price
+ phones , Number of handsets issued
+ models , Number of models issued
+ hnd_webcap , Handset web capability
+ truck , Truck indicator
+ rv , RV indicator
+ ownrent , Home owner/renter status
+ lor , Length of residence
+ dwlltype , Dwelling Unit type
+ marital , Marital Status
+ adults , Number of adults in household
+ infobase , InfoBase match
+ income , Estimated income
+ numbcars , Known number of vehicles
+ HHstatin , Premier household status indicator
+ dwllsize , Dwelling size
+ forgntvl , Foreign travel dummy variable
+ ethnic , Ethnicity roll
+ kid0_2 , Child 0 
+ kid3_5 , Child 3 
+ kid6_10 , Child 6 
+ kid11_15 , Child 11 
+ kid16_17 , Child 16 
+ creditcd , Credit card indicator
